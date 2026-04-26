@@ -1,0 +1,26 @@
+{
+  "name": "zed-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Zed agent - Browser, Screenshot, SSH on Windows",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "zed",
+    "mcp",
+    "browser",
+    "screenshot",
+    "ssh",
+    "windows"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "child_process": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.7.0"
+  }
+}
