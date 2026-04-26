@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "zed-system": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\ВашеИмя\\Documents\\zed-mcp-server\\src\\index.js"
+      ]
+    }
+  }
+}
